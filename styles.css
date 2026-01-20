@@ -22,7 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0px;
-    background-image: url("/Trial/Hometown(SP)/images/hero.jpeg");
+    background-image: url("/images/hero.jpeg");
     height: 730px;
     background-size: cover;
 }
@@ -86,4 +86,5 @@ ul {
 #croc {
     font-weight: bold;
     text-decoration: underline;
+
 }
